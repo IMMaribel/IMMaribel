@@ -32,8 +32,7 @@ I am a junior frontend developer focused on web development with **React**. I am
 
 ## 🌱 Recent Projects
 
-- **[Mallorca Planner](https://github.com/IMMaribel/mallorca-planner)**: An application focused on Japanese tourists who want to live or visit Mallorca, developed with **React**, **Vite**, and **Tailwind CSS**.
-- **[Fitness Planner](https://github.com/IMMaribel/fitness-planner)**: An app to help plan gym routines, created with **React** and **Node.js**.
+- **[Fitness Planner](https://github.com/IMMaribel/fitness-planner-reactplugins-mysql)**: An app to help plan gym routines, created with **React** and **Node.js**.
 
 ## 💬 About Me
 
