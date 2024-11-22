@@ -43,7 +43,7 @@ I am a junior frontend developer focused on web development with **React**. I am
 
 ## 📫 Contact
 
-- [LinkedIn](https://www.linkedin.com/in/maribel-i-7406772a/)
+- [LinkedIn](https://www.linkedin.com/in/immaribel7/)
 - [Email](immaribel7@gmail.com)
 
 ## 🚀 My Goals
